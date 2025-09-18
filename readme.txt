@@ -1,6 +1,6 @@
-This github repo was used to build an honest and accurate data set of all 
-linkedin posts (not including reposts) of 9 of the top 10 clay experts. 
-We only didnt include 1 due to the file of aggregated posts being corrupted.
+This github repo was used to analyze linkedin posts (not including reposts) of 9 of the top 10 clay experts. 
+
+We only didnt include 1 due to the file of posts being corrupted.
 
 All items referenced here are from publicly viewable LinkedIn posts. The dataset and code are available in the GitHub repo for anyone who wants to audit our methods.
 
